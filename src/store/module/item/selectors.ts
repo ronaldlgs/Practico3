@@ -1,0 +1,1 @@
+export const itemSelector = (s: any) => s.item
